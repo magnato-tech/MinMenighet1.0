@@ -1,0 +1,5 @@
+{
+  "name": "MinMenighet MVP",
+  "description": "En moderne planleggings-app for menigheter med iCal-synkronisering, ukeplaner og oppgavehåndtering.",
+  "requestFramePermissions": []
+}
